@@ -1,0 +1,6 @@
+#!/bin/bash
+
+launchctl unload /Library/LaunchDaemons/com.github.korylprince.authchanger-fix.plist
+launchctl load /Library/LaunchDaemons/com.github.korylprince.authchanger-fix.plist
+
+exit 0
