@@ -5,7 +5,7 @@
     "distribution_style": false,
     "preserve_xattr": false,
     "install_location": "/",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "ownership": "recommended",
     "identifier": "com.github.korylprince.authchanger-fix"
 }
